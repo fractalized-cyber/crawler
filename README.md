@@ -21,7 +21,7 @@ A Go application that crawls websites using a headless Chrome browser, capturing
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crawler.git
+git clone https://github.com/fractalized-cyber/crawler.git
 cd crawler
 
 # Build the crawler
